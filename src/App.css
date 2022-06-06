@@ -1,0 +1,10 @@
+.editItems {
+  background-color: #fff;
+  margin: 0 0 10px;
+}
+
+.editItem {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
